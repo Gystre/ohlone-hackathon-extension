@@ -8,11 +8,6 @@ fetch(url)
 // contains the data on the site we are visiting
 var currentSite = null;
 chrome.runtime.onMessage.addListener(function (message, sender, sendResponse) {
-    if (message.loaded) {
-        console.log("got loaded");
-        sendResponse({ currentSite });
-    }
-
     if (message.url) {
         // see if we're in supported page
         const url = message.url;
@@ -23,3 +18,7 @@ chrome.runtime.onMessage.addListener(function (message, sender, sendResponse) {
         }
     }
 });
+
+function getCurrentSite() {
+    return currentSite;
+}
