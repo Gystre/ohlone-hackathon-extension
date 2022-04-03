@@ -1,0 +1,381 @@
+{
+    "https://www2.hm.com": {
+        "name": "H&M",
+        "eupediaScore": "79.08",
+        "goodOnYouScore": "3 out of 5",
+        "reason": [
+            "Uses some eco friendly materials",
+            "Has policies to prevent deforestation"
+        ],
+        "links": []
+    },
+
+    "https://www.fashionnova.com": {
+        "name": "Fashion Nova",
+        "eupediaScore": "",
+        "goodOnYouScore": "1 out of 5",
+        "reason": ["No transparency on carbon emissions"],
+        "links": []
+    },
+
+    "https://www.forever21.com": {
+        "name": "Forever21",
+        "eupediaScore": "",
+        "goodOnYouScore": "1 out of 5",
+        "reason": ["No transparency on carbon emissions"],
+        "links": []
+    },
+
+    "https://www.urbanoutfitters.com": {
+        "name": "Urban Outfitters",
+        "eupediaScore": "",
+        "goodOnYouScore": "",
+        "reason": ["Uses some renewable energy"],
+        "links": []
+    },
+
+    "https://us.brandymelville.com": {
+        "name": "Brandy Melville",
+        "eupediaScore": "",
+        "goodOnYouScore": "1 out of 5",
+        "reason": ["No transparency on carbon emissions"],
+        "links": []
+    },
+
+    "https://us.princesspolly.com": {
+        "name": "Princess Polly",
+        "eupediaScore": "",
+        "goodOnYouScore": "1 out of 5",
+        "reason": ["Only uses some eco friendly materials"],
+        "links": []
+    },
+
+    "https://www.gucci.com": {
+        "name": "Gucci",
+        "eupediaScore": "57.56",
+        "goodOnYouScore": "4 out of 5",
+        "reason": [
+            "Uses eco-friendly materials",
+            "Has a science-based target to reduce carbon emissions",
+            "Has policies to prevent deforestation",
+            "Reduces harmful chemicals from leather tanning process"
+        ],
+        "links": []
+    },
+
+    "https://www.zara.com": {
+        "name": "Zara",
+        "eupediaScore": "46.18",
+        "goodOnYouScore": "2 out of 5",
+        "reason": [
+            "Uses some eco-friendly materials and reduces some carbon emissions"
+        ],
+        "links": []
+    },
+
+    "https://www.uniqlo.com": {
+        "name": "uniqlo",
+        "eupediaScore": "43.57",
+        "goodOnYouScore": "3 out of 5",
+        "reason": [""],
+        "links": []
+    },
+
+    "https://www.patagonia.com": {
+        "name": "Patagonia",
+        "eupediaScore": "67.22",
+        "goodOnYouScore": "4 out of 5",
+        "reason": [
+            "Uses high amounts of eco friendly materials",
+            "Uses recycled materials",
+            "Conducted research on microplastics",
+            "Implements greenhouse gas emissions reduction activities"
+        ],
+        "links": []
+    },
+
+    "https://acnestudios.com": {
+        "name": "Acne Studios",
+        "eupediaScore": "",
+        "goodOnYouScore": "2 out of 5",
+        "reason": ["Uses some eco-friendly materials"],
+        "links": []
+    },
+
+    "https://lululemon.com": {
+        "name": "Lululemon",
+        "eupediaScore": "38.50",
+        "goodOnYouScore": "2 out of 5",
+        "reason": [
+            "Uses some eco friendly materials",
+            "Has a science-based target to reduce carbon emissions"
+        ],
+        "links": []
+    },
+
+    "https://www.maisonmargiela.com": {
+        "name": "Maison Margiela",
+        "eupediaScore": "",
+        "goodOnYouScore": "1 out of 5",
+        "reason": ["No transparency on carbon emissions"],
+        "links": []
+    },
+
+    "https://www.hollisterco.com": {
+        "name": "Hollister",
+        "eupediaScore": "",
+        "goodOnYouScore": "2 out of 5",
+        "reason": ["Uses few eco friendly materials"],
+        "links": []
+    },
+
+    "https://www.off---white.com": {
+        "name": "Off-White",
+        "eupediaScore": "",
+        "goodOnYouScore": "1 out of 5",
+        "reason": ["No transparency on carbon emissions"],
+        "links": []
+    },
+
+    "https://www.viviennewestwood.com": {
+        "name": "Vivienne Westwood",
+        "eupediaScore": "",
+        "goodOnYouScore": "2 out of 5",
+        "reason": ["Uses some upcycled and eco-friendly materials materials"],
+        "links": []
+    },
+
+    "https://www.anthropologie.com": {
+        "name": "Anthropologie",
+        "eupediaScore": "",
+        "goodOnYouScore": "2 out of 5",
+        "reason": ["Uses some renewable energy "],
+        "links": []
+    },
+
+    "https://www.supremenewyork.com": {
+        "name": "Supreme",
+        "eupediaScore": "",
+        "goodOnYouScore": "1 out of 5",
+        "reason": ["No transparency on carbon emissions"],
+        "links": []
+    },
+
+    "https://www.aritzia.com/us/en/default": {
+        "name": "Aritzia",
+        "eupediaScore": "",
+        "goodOnYouScore": "2 out of 5",
+        "reason": ["Uses some organic cotton"],
+        "links": []
+    },
+
+    "https://www.vans.com/en-us": {
+        "name": "Vans",
+        "eupediaScore": "",
+        "goodOnYouScore": "2 out of 5",
+        "reason": ["Set an absolute target to reduce greenhouse gas emissions"],
+        "links": []
+    },
+
+    "https://mejuri.com": {
+        "name": "Mejuri",
+        "eupediaScore": "",
+        "goodOnYouScore": "2 out of 5",
+        "reason": ["Make products by hand"],
+        "links": []
+    },
+
+    "https://www.champion.com": {
+        "name": "Champion",
+        "eupediaScore": "",
+        "goodOnYouScore": "2 out of 5",
+        "reason": ["Uses some eco friendly materials"],
+        "links": []
+    },
+
+    "https://www.thereformation.com": {
+        "name": "Reformation",
+        "eupediaScore": "",
+        "goodOnYouScore": "4 out of 5",
+        "reason": ["Carbon neutral", "Uses mostly eco friendly materials"],
+        "links": []
+    },
+
+    "https://forloveandlemons.com": {
+        "name": "For Love and Lemons",
+        "eupediaScore": "",
+        "goodOnYouScore": "2 out of 5",
+        "reason": ["Uses some eco friendly materials"],
+        "links": []
+    },
+
+    "https://iamgia.com": {
+        "name": "I.AM.GIA",
+        "eupediaScore": "",
+        "goodOnYouScore": "1 out of 5",
+        "reason": ["No transparency on carbon emissions"],
+        "links": []
+    },
+
+    "https://oldnavy.gap.com": {
+        "name": "Old Navy",
+        "eupediaScore": "",
+        "goodOnYouScore": "3 out of 5",
+        "reason": [
+            "Uses eco friendly materials",
+            "Has a science-based target to reduce carbon emissions",
+            "Received an 'A' in the Carbon Disclosure Project (CDP) water security questionnaire"
+        ],
+        "links": []
+    },
+
+    "https://www.converse.com": {
+        "name": "Converse",
+        "eupediaScore": "",
+        "goodOnYouScore": "3 out of 5",
+        "reason": [
+            "Uses some eco friendly materials",
+            "Has a science-based target to reduce carbon emissions",
+            "Implements water reduction",
+            "Promise to eliminate hazardous chemicals by 2025"
+        ],
+        "links": []
+    },
+
+    "https://www.prettylittlething.com": {
+        "name": "PrettyLittleThing",
+        "eupediaScore": "",
+        "goodOnYouScore": "2 out of 5",
+        "reason": ["Measures and reports greenhouse gas emissions "],
+        "links": []
+    },
+
+    "https://www.amazon.com": {
+        "name": "Amazon",
+        "eupediaScore": "21.67",
+        "goodOnYouScore": "2 out of 5",
+        "reason": ["Uses some renewable energy"],
+        "links": []
+    },
+
+    "https://www.levi.com/US/en_US/": {
+        "name": "Levi Strauss",
+        "eupediaScore": "69.56",
+        "goodOnYouScore": "4 out of 5",
+        "reason": [
+            "Uses some eco friendly materials",
+            "Has a science-based target to reduce carbon emissions",
+            "Has eliminated use of most hazardous chemicals"
+        ],
+        "links": []
+    },
+
+    "https://www.aeropostale.com": {
+        "name": "Aeropostale",
+        "eupediaScore": "",
+        "goodOnYouScore": "1 out of 5",
+        "reason": ["No transparency on carbon emissions"],
+        "links": []
+    },
+
+    "https://www.victoriassecret.com/us/": {
+        "name": "Victoria's Secret",
+        "eupediaScore": "",
+        "goodOnYouScore": "1 out of 5",
+        "reason": ["Uses few eco friendly materials"],
+        "links": []
+    },
+
+    "https://www.victoriassecret.com/us/pink": {
+        "name": "PINK",
+        "eupediaScore": "",
+        "goodOnYouScore": "1 out of 5",
+        "reason": ["Uses few eco friendly materials"],
+        "links": []
+    },
+
+    "https://www.adidas.com/us": {
+        "name": "Adidas",
+        "eupediaScore": "71.75",
+        "goodOnYouScore": "3 out of 5",
+        "reason": [
+            "Uses moderate amount of eco-friendly materials",
+            "Uses some recycled materials",
+            "Has a science-based target to reduce carbon emissions",
+            "Conducted research on microplastics"
+        ],
+        "links": []
+    },
+
+    "https://www.reebok.com/us": {
+        "name": "Reebok",
+        "eupediaScore": "71.75",
+        "goodOnYouScore": "3 out of 5",
+        "reason": [
+            "Uses moderate amount of eco-friendly materials",
+            "Has an absolute target to reduce carbon emissions",
+            "Uses tanneries that are certified gold or silver",
+            "Conducted research on microplastics"
+        ],
+        "links": []
+    },
+
+    "https://www.esprit.com": {
+        "name": "Esprit",
+        "eupediaScore": "59.46",
+        "goodOnYouScore": "3 out of 5",
+        "reason": [""],
+        "links": []
+    },
+
+    "https://us.puma.com/us/en/home": {
+        "name": "Puma",
+        "eupediaScore": "58.89",
+        "goodOnYouScore": "3 out of 5",
+        "reason": [
+            "Uses some eco-friendly materials like recycled materials",
+            "Has a science-based target to reduce greenhouse gas emissions",
+            "Promise to reduce use of  hazardous chemicals by 2025"
+        ],
+        "links": []
+    },
+
+    "https://www.nike.com": {
+        "name": "Nike",
+        "eupediaScore": "58.67",
+        "goodOnYouScore": "3 out of 5",
+        "reason": [
+            "Uses some eco-friendly materials like recycled materials",
+            "Has a science-based target to reduce greenhouse gas emissions",
+            "Implements water reduction initiatives",
+            "Promise to reduce use of  hazardous chemicals by 2025"
+        ],
+        "links": []
+    },
+
+    "https://www.ysl.com/en-us": {
+        "name": "Yves Saint Laurent",
+        "eupediaScore": "57.56",
+        "goodOnYouScore": "4 out of 5",
+        "reason": [
+            "Uses some eco-friendly materials like organic cotton",
+            "Has a science-based target to reduce greenhouse gas emissions",
+            "Has policies to prevent deforestation",
+            "Reduces use of harmful chemicals during leather tanning process"
+        ],
+        "links": []
+    },
+
+    "https://www.burberry.com": {
+        "name": "burberry",
+        "eupediaScore": "56.38",
+        "goodOnYouScore": "4 out of 5",
+        "reason": [
+            "Tanneries are audited by the Leather Tanning Group",
+            "Member of Better Cotton Initiative",
+            "Eliminated use of hazardous chemicals in 2020",
+            "Has a science-based target to reduce greenhouse gas emissions"
+        ],
+        "links": []
+    }
+}
